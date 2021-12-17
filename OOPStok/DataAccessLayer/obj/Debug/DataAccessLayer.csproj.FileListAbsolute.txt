@@ -1,0 +1,9 @@
+C:\Users\Meriç\source\repos\OOPStok\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Meriç\source\repos\OOPStok\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Meriç\source\repos\OOPStok\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Meriç\source\repos\OOPStok\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Meriç\source\repos\OOPStok\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Meriç\source\repos\OOPStok\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meriç\source\repos\OOPStok\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Meriç\source\repos\OOPStok\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Meriç\source\repos\OOPStok\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

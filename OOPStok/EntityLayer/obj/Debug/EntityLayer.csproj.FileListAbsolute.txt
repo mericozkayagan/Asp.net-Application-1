@@ -1,0 +1,6 @@
+C:\Users\Meriç\source\repos\OOPStok\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Meriç\source\repos\OOPStok\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Meriç\source\repos\OOPStok\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Meriç\source\repos\OOPStok\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meriç\source\repos\OOPStok\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Meriç\source\repos\OOPStok\EntityLayer\obj\Debug\EntityLayer.pdb
